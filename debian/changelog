@@ -1,3 +1,9 @@
+bison (2:3.8.2+dfsg-1deepin1) unstable; urgency=medium
+
+  * feat: add sw64 support
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 26 May 2025 10:34:39 +0800
+
 bison (2:3.8.2+dfsg-1) unstable; urgency=medium
 
   * New upstream version 3.8.2+dfsg
